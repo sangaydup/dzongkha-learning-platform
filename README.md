@@ -4,14 +4,14 @@ cat > README.md << 'EOF'
 
 A beautiful MERN stack application for learning Dzongkha language with interactive flashcards.
 
-## 🚀 Features
+## Features
 - Interactive flip cards
 - Progress tracking
 - Category filtering
 - Beautiful animations
 - Responsive design
 
-## 🛠️ Tech Stack
+## Tech Stack
 - React.js, Node.js, Express.js, MongoDB
 
 ## 📦 Quick Start
