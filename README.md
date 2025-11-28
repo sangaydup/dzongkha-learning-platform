@@ -1,6 +1,6 @@
 # Create a proper README
 cat > README.md << 'EOF'
-# 🇧🇹 Dzongkha Learning Platform
+# Dzongkha Learning Platform
 
 A beautiful MERN stack application for learning Dzongkha language with interactive flashcards.
 
@@ -14,7 +14,7 @@ A beautiful MERN stack application for learning Dzongkha language with interacti
 ## Tech Stack
 - React.js, Node.js, Express.js, MongoDB
 
-## 📦 Quick Start
+## Quick Start
 ```bash
 # Backend
 cd backend && npm install && npm run dev
